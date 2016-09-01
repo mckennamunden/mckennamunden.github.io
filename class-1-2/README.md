@@ -1,5 +1,7 @@
 # This is my example markdown readme
 
-This is an awesome paragraph descricing my process
+This is an awesome paragraph describing my process
 
-I am awesome but I have no idea what I am doing
+I am awesome BUT I HAVE NO IDEA WHAT IM DOING ... yet
+
+[This is my website] (mckennamunden.github.io)
