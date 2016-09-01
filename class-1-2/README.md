@@ -4,4 +4,4 @@ This is an awesome paragraph describing my process
 
 I am awesome BUT I HAVE NO IDEA WHAT IM DOING ... yet
 
-[This is my website] (mckennamunden.github.io)
+[This is my website] (http://mckennamunden.github.io)
