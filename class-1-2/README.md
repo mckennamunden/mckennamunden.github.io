@@ -1,7 +1,5 @@
-# This is my example markdown readme
+# Homework Week 1.2
 
-This is an awesome paragraph describing my process
-
-I am awesome BUT I HAVE NO IDEA WHAT IM DOING ... yet
+It took me a little while to figure out this homework as I am still trying to get with the lingo. Yet, I can feel things starting to click. And after review in class on September 6th I am really starting to get confident with these basics.
 
 [This is my website] (http://mckennamunden.github.io)
