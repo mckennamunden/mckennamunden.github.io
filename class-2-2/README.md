@@ -8,7 +8,10 @@ And lastly, I couldn't remember how to add a second page with a relative link to
 I am hoping just a little bit of review in class will help me remember and I can finish this assignment 100%.
 
 UPDATE:
-My picture problem was just a simple mistake in not pushing the pictures to the directory/naming the files correctly. I am feeling much much better about all of this already. I feel like I'm so smart already - even though it's taking me a long time to figure it all out.
+My picture problem was just a simple mistake in not pushing the pictures to the directory/naming the files correctly. I am feeling much much better about all of this already. I also figured out the relative link pretty fast once I relized I had to upload a different html page to the directory and link to THAT. For whatever reason when that was first explained, I was very confused and didn't understand that.
+
+Even though it is taking me longer to get all this stuff, I am really getting so much more confident in all of these areas. Yay!
+
 
 
 [This is my website] (http://mckennamunden.github.io)
