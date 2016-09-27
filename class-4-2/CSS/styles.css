@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'butlerlight';
+    src: url('Font/butler_light-webfont.woff2') format('woff2'),
+         url('Font/butler_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body {
     font-family: 'Playfair Display', serif;
     color: rgba(0,0,0,0.99);
@@ -25,7 +33,7 @@ h1 {
     }
 
 h2 {
-    font-family: 'butler'
+    font-family: 'butlerlight'
     font-size: 32px;
     color: #0D3027;
     word-spacing: .1em;
