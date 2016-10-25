@@ -6,16 +6,15 @@ body {
     }
 
 .header {
-    color: darkgreen;
-    background-color: hsla(164, 8%, 92%, 0.99);
+    color: #1F535E;
     padding: inherit;
     text-align: center;
         }
 #slideshow { 
     margin: 50px auto; 
     position: relative; 
-    width: 300px; 
-    height: 200px; 
+    width: 900px; 
+    height: 600px; 
     padding: 10px; 
     box-shadow: 0 0 20px rgba(0,0,0,0.4); 
 }
@@ -37,15 +36,15 @@ h1 {
     }
 
 h2 {
-    font-family: 'butlerlight'
+    font-family: "Times New Roman"
     font-size: 32px;
-    color: #0D3027;
+    color: #18444D;
     word-spacing: .1em;
     }
 
 h3 {
     font-size: 2em;
-    color: #0D3027;
+    color: #165663;
     }
 
 p {
@@ -55,23 +54,19 @@ p {
     }
 
 a:link {
-    color: #367E6C;
+    color: #7B8283;
     text-decoration: none;
         }
 
 a:visited {
-    color: #4A8375;
+    color: #525454;
         }
 
 a:hover {
-    color: #669E90;
+    color: #8CA9A9;
     text-decoration: underline;
         }
 
 a:active {
-    color: #669E90;
+    color: #161717;
         }
-
-p:first-letter {
-    font-size: 200%
-                }
