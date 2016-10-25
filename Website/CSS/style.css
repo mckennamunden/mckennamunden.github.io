@@ -6,7 +6,8 @@ body {
     }
 
 .header {
-    color: #1F535E;
+    color: #FFFFFF;
+    background-color: #000000;
     padding: inherit;
     text-align: center;
         }
