@@ -10,7 +10,7 @@ All images used in my site are my own. I selected just a few of my favorite piec
 #CONTRIBUTIONS:
 
 ##ANIMATE.CSS Copyright (c) 2015 Daniel Eden
-##-originally authored by Nick Pettit - https://github.com/nickpettit/glide
+##-Originally authored by Nick Pettit - https://github.com/nickpettit/glide
 
 ##Bootstrap v3.3.5 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
