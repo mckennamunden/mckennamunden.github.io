@@ -25,3 +25,7 @@ All images used in my site are my own. I selected just a few of my favorite piec
 ##Waypoints - 4.0.0
 Copyright Â© 2011-2015 Caleb Troughton
 Licensed under the MIT license.
+
+
+
+(I also forgot to mention that with my CONTACT page, the "Get in Touch" section worked and then didn't and was so inconsistent that I just took it out completely. Definitely a failure I will need to look into.)
