@@ -1,4 +1,8 @@
 #Final Draft Website
 
-Here is my final website in its entirity. It really allowed me to express my creativity freely and in doing so, I feel like I also really inforced what I learned in the web design class this semester.
+My final project for Web Development 341 was to build a professional website. I used the Bootstrap Framework and free template 
+I found to create my own personal photography portfolio website.
 
+The template I found originally came with many gadgets and overall made the website look very jumbled and messy. By taking out many of these excess elements, changing the color scheme to something far more neutral and adding my own personal touches, I was able to create a simple and aesthetically pleasing site that highlighted my work and me.
+
+All images used in my site are my own. I selected just a few of my favorite pieces in order to keep the look of the website clean and fit well with the template.
