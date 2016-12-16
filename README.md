@@ -8,4 +8,4 @@ The template I found originally came with many gadgets and overall made the webs
 All images used in my site are my own. I selected just a few of my favorite pieces in order to keep the look of the website clean and fit well with the template.
 
 
-(exact name of creators and location of free template my site is based on could not be found/remembered at this time)
+(exact name of creators and location of free template my site is based on could not be found/remembered at this time - I apologize for the inconvenience)
